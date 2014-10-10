@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{62B938BD-9C39-A79B-E8AD-F8E7763408B7}") = "iOS-JoyStick", "Assembly-CSharp-vs.csproj", "{F4EF112E-B335-1907-96D6-61C840584D05}"
+EndProject
+Project("{62B938BD-9C39-A79B-E8AD-F8E7763408B7}") = "iOS-JoyStick", "Assembly-CSharp-Editor-vs.csproj", "{BCCD0187-B967-90B1-5EA8-BC4CF8B62CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4EF112E-B335-1907-96D6-61C840584D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EF112E-B335-1907-96D6-61C840584D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EF112E-B335-1907-96D6-61C840584D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EF112E-B335-1907-96D6-61C840584D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCD0187-B967-90B1-5EA8-BC4CF8B62CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCD0187-B967-90B1-5EA8-BC4CF8B62CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCD0187-B967-90B1-5EA8-BC4CF8B62CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCD0187-B967-90B1-5EA8-BC4CF8B62CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																													GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
