@@ -19,6 +19,9 @@ This script demonstrates handling inputs from a pair of mobile joysticks.  The l
  2. Link the joysticks to the script.  There should be a public object *moveJoystick* and a public object *rotateJoystick*.
  3. Play with the *speed* and *rotationSpeed*.  These are both public values that control the speed of your character.
 
+**Running the iPhone App**
+In order to run this iPhone app, you must download a library from https://www.dropbox.com/s/jfg09lup8yew714/libiPhone-lib.a?dl=0 (it was too big to upload to github).  When you download this, you must put it in the /Libaries folder.  You don't have to make any changes in XCode.  Also, don't forget to run this project in iOS 7.1
+
 **Deploying to iPhone**
 *NOTE: XCode and the iOS 7.1 Simulator were used to deploy this.*
 
